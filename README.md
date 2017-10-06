@@ -1,2 +1,2 @@
-# Arreglos_genericos
-Trabajo grupal
+# TareaArreglosGenerocos
+Metodos de Ordenamiento Genericos
